@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bouilloire64
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and python
 
 <!---
 Bouilloire64/Bouilloire64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
